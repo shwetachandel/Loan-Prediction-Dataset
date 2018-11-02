@@ -5,3 +5,5 @@ Among all industries, the insurance domain has one of the largest uses of analyt
 Problem: Predict if a loan will get approved or not.
 
 Website: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+
+Submission Accuracy : 78.47%
